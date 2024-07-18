@@ -60,26 +60,14 @@ education:
       Undergraduate research work - Carbon dioxide plume dynamics on mosquito host-seeking behavior. Supervised by Prof Nitin Gupta (https://sites.google.com/site/labofneuralsystems/).
 
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Crossroads conference Oral presentation
+    url: https://x.com/StowersXroads
+    date: '2021-09-01'
+    awarder: Stowers Institute
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+      Awarded first position among all graduate students at the institute for the talk "Expectation influences perception in mouse olfactory bulb"
   - title: 'Bio inovation award'
     url: https://www.iitk.ac.in/bsbe/endowment
-    certificate_url: https://www.datacamp.com
     date: '2017-01-21'
     awarder: BSBE department of IIT Kanpur
     summary: |
